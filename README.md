@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Bem-vindo ao meu perfil no GitHub! Sou João Vitor, um entusiasta da programação e amante de tecnologia. Aqui, você encontrará projetos que refletem minha paixão por programação!</h3>
+<h3 align="left">Bem-vindo ao meu cantinho digital! Em cada linha de código, mesclo a robustez do Back-End com a beleza do Front-End, em uma jornada contínua pelo mundo da tecnologia!</h3>
 
 ###
 
