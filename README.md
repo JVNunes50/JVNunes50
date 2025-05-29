@@ -16,8 +16,6 @@ Olá! Que bom ter você por aqui. Este é o meu espaço no GitHub, onde comparti
 
 Sinta-se à vontade para navegar pelos repositórios, verificar os códigos, testar as aplicações e, se tiver alguma ideia ou sugestão. Ficarei muito feliz em interagir e aprender com você!
 
-Obrigado(a) pela visita e espero que encontre algo interessante por aqui!
-
 ###
 
 # 💻 Tech Stack:
@@ -29,9 +27,12 @@ Obrigado(a) pela visita e espero que encontre algo interessante por aqui!
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JVNunes50&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+
+Obrigado(a) pela visita e espero que encontre algo interessante por aqui!
 ---
 [![](https://visitcount.itsvg.in/api?id=JVNunes50&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
+
