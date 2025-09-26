@@ -5,7 +5,6 @@ Olá! Que bom ter você por aqui. Este é o meu espaço no GitHub, onde comparti
 ## O que você vai encontrar por aqui?
 
 * **Projetos Diversos:** Desde pequenos scripts a aplicações mais robustas, você encontrará uma variedade de projetos que refletem meus interesses e habilidades.
-* **Códigos Abertos:** Acredito no poder da colaboração e do conhecimento compartilhado, por isso, a maioria dos meus repositórios é pública para que você possa explorar, aprender e até mesmo contribuir.
 * **Evolução Constante:** Meu GitHub é um reflexo do meu processo de aprendizagem contínuo. Você verá projetos em andamento e outros já finalizados, mostrando minha evolução como desenvolvedor.
 
 ## Como explorar?
